@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Addition Time!</string>
+    <string name="enter_the_second_number">Enter the second number</string>
+    <string name="enter_the_first_number">Enter the first number</string>
+    <string name="addition_time">Addition Time!!!!!</string>
+    <string name="enter_here">Enter here</string>
+    <string name="add">Add!</string>
+</resources>
